@@ -1,0 +1,7 @@
+.history
+*.exe
+image
+.vscode
+*\.vs
+Debug
+x64
